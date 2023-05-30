@@ -1,4 +1,5 @@
 import React from 'react';
+import Button from './button';
 
 export default function calculator() {
   return (
@@ -10,7 +11,7 @@ export default function calculator() {
 
         </div>
         <div className="row">
-          <div className="column">AC</div>
+          <Button className="column" value="AC" />
           <div className="column">+/-</div>
           <div className="column">%</div>
           <div className="column orange">/</div>
@@ -40,6 +41,5 @@ export default function calculator() {
         </div>
       </div>
     </div>
-
   );
 }
