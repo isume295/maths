@@ -38,22 +38,12 @@ body {
   text-align: center;
 }
 
-input {
+.display {
   text-align: right;
   padding: 10px;
-  outline: none;
   background-color: #858694;
   color: white;
   border: none;
-}
-
-input::placeholder {
-  color: white;
-}
-
-input::-webkit-inner-spin-button,
-input::-webkit-outer-spin-button {
-  -webkit-appearance: none;
 }
 
 .orange {
