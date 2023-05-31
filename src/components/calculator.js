@@ -23,7 +23,7 @@ export default function Calculator() {
           <Button className="column" value="AC" handleClick={eventHandler} />
           <Button className="column" value="+/-" handleClick={eventHandler} />
           <Button className="column" value="%" handleClick={eventHandler} />
-          <Button className="column orange" value="/" handleClick={eventHandler} />
+          <Button className="column orange" value="÷" handleClick={eventHandler} />
         </div>
         <div className="row">
           <Button className="column" value="7" handleClick={eventHandler} />
