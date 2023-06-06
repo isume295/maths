@@ -17,7 +17,7 @@ export default function Quote() {
       try {
         const response = await fetch('https://api.api-ninjas.com/v1/quotes?category=success', settings);
         const responsJson = await response.json();
-        setData(`${responsJson[0].quote}`);
+        setData(`"${responsJson[0].quote}"~ ${responsJson[0].author}`);
       } catch (error) {
         setHasError(true);
       }
