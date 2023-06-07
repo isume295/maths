@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test components renders correctly test 1 1`] = `
+<button
+  class="column"
+  name="+"
+  type="button"
+>
+  +
+</button>
+`;
