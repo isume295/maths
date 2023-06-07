@@ -138,6 +138,8 @@ To run tests, run the following command:
 
 - to test JavaScript and JSX linter errors  `npx eslint "**/*.{js,jsx}"`
 
+- to run test files `npx jest`
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
