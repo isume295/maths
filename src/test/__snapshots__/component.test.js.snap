@@ -1,0 +1,552 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test 2 test 1 1`] = `
+<div
+  class="calculator-container"
+>
+  <div
+    class="calculator"
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="display"
+      >
+        0
+      </div>
+    </div>
+    <div
+      class="row"
+    >
+      <button
+        class="column"
+        name="AC"
+        type="button"
+      >
+        AC
+      </button>
+      <button
+        class="column"
+        name="+/-"
+        type="button"
+      >
+        +/-
+      </button>
+      <button
+        class="column"
+        name="%"
+        type="button"
+      >
+        %
+      </button>
+      <button
+        class="column orange"
+        name="÷"
+        type="button"
+      >
+        ÷
+      </button>
+    </div>
+    <div
+      class="row"
+    >
+      <button
+        class="column"
+        name="7"
+        type="button"
+      >
+        7
+      </button>
+      <button
+        class="column"
+        name="8"
+        type="button"
+      >
+        8
+      </button>
+      <button
+        class="column"
+        name="9"
+        type="button"
+      >
+        9
+      </button>
+      <button
+        class="column orange"
+        name="*"
+        type="button"
+      >
+        *
+      </button>
+    </div>
+    <div
+      class="row"
+    >
+      <button
+        class="column"
+        name="4"
+        type="button"
+      >
+        4
+      </button>
+      <button
+        class="column"
+        name="5"
+        type="button"
+      >
+        5
+      </button>
+      <button
+        class="column"
+        name="6"
+        type="button"
+      >
+        6
+      </button>
+      <button
+        class="column orange"
+        name="-"
+        type="button"
+      >
+        -
+      </button>
+    </div>
+    <div
+      class="row"
+    >
+      <button
+        class="column"
+        name="1"
+        type="button"
+      >
+        1
+      </button>
+      <button
+        class="column"
+        name="2"
+        type="button"
+      >
+        2
+      </button>
+      <button
+        class="column"
+        name="3"
+        type="button"
+      >
+        3
+      </button>
+      <button
+        class="column orange"
+        name="+"
+        type="button"
+      >
+        +
+      </button>
+    </div>
+    <div
+      class="row"
+    >
+      <button
+        class="column"
+        name="0"
+        type="button"
+      >
+        0
+      </button>
+      <button
+        class="column"
+        name="."
+        type="button"
+      >
+        .
+      </button>
+      <button
+        class="column orange"
+        name="="
+        type="button"
+      >
+        =
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test components renders correctly test 1 1`] = `
+<button
+  class="column"
+  name="+"
+  type="button"
+>
+  +
+</button>
+`;
+
+exports[`test components renders correctly test 1 2`] = `
+<div
+  class="calculator-container"
+>
+  <div
+    class="calculator"
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="display"
+      >
+        0
+      </div>
+    </div>
+    <div
+      class="row"
+    >
+      <button
+        class="column"
+        name="AC"
+        type="button"
+      >
+        AC
+      </button>
+      <button
+        class="column"
+        name="+/-"
+        type="button"
+      >
+        +/-
+      </button>
+      <button
+        class="column"
+        name="%"
+        type="button"
+      >
+        %
+      </button>
+      <button
+        class="column orange"
+        name="÷"
+        type="button"
+      >
+        ÷
+      </button>
+    </div>
+    <div
+      class="row"
+    >
+      <button
+        class="column"
+        name="7"
+        type="button"
+      >
+        7
+      </button>
+      <button
+        class="column"
+        name="8"
+        type="button"
+      >
+        8
+      </button>
+      <button
+        class="column"
+        name="9"
+        type="button"
+      >
+        9
+      </button>
+      <button
+        class="column orange"
+        name="*"
+        type="button"
+      >
+        *
+      </button>
+    </div>
+    <div
+      class="row"
+    >
+      <button
+        class="column"
+        name="4"
+        type="button"
+      >
+        4
+      </button>
+      <button
+        class="column"
+        name="5"
+        type="button"
+      >
+        5
+      </button>
+      <button
+        class="column"
+        name="6"
+        type="button"
+      >
+        6
+      </button>
+      <button
+        class="column orange"
+        name="-"
+        type="button"
+      >
+        -
+      </button>
+    </div>
+    <div
+      class="row"
+    >
+      <button
+        class="column"
+        name="1"
+        type="button"
+      >
+        1
+      </button>
+      <button
+        class="column"
+        name="2"
+        type="button"
+      >
+        2
+      </button>
+      <button
+        class="column"
+        name="3"
+        type="button"
+      >
+        3
+      </button>
+      <button
+        class="column orange"
+        name="+"
+        type="button"
+      >
+        +
+      </button>
+    </div>
+    <div
+      class="row"
+    >
+      <button
+        class="column"
+        name="0"
+        type="button"
+      >
+        0
+      </button>
+      <button
+        class="column"
+        name="."
+        type="button"
+      >
+        .
+      </button>
+      <button
+        class="column orange"
+        name="="
+        type="button"
+      >
+        =
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test components renders correctly test 1 3`] = `
+<div>
+  Error try again
+</div>
+`;
+
+exports[`test components renders correctly test Button component 1`] = `
+<button
+  class="column"
+  name="+"
+  type="button"
+>
+  +
+</button>
+`;
+
+exports[`test components renders correctly test Calculator component 1`] = `
+<div
+  class="calculator-container"
+>
+  <div
+    class="calculator"
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="display"
+      >
+        0
+      </div>
+    </div>
+    <div
+      class="row"
+    >
+      <button
+        class="column"
+        name="AC"
+        type="button"
+      >
+        AC
+      </button>
+      <button
+        class="column"
+        name="+/-"
+        type="button"
+      >
+        +/-
+      </button>
+      <button
+        class="column"
+        name="%"
+        type="button"
+      >
+        %
+      </button>
+      <button
+        class="column orange"
+        name="÷"
+        type="button"
+      >
+        ÷
+      </button>
+    </div>
+    <div
+      class="row"
+    >
+      <button
+        class="column"
+        name="7"
+        type="button"
+      >
+        7
+      </button>
+      <button
+        class="column"
+        name="8"
+        type="button"
+      >
+        8
+      </button>
+      <button
+        class="column"
+        name="9"
+        type="button"
+      >
+        9
+      </button>
+      <button
+        class="column orange"
+        name="*"
+        type="button"
+      >
+        *
+      </button>
+    </div>
+    <div
+      class="row"
+    >
+      <button
+        class="column"
+        name="4"
+        type="button"
+      >
+        4
+      </button>
+      <button
+        class="column"
+        name="5"
+        type="button"
+      >
+        5
+      </button>
+      <button
+        class="column"
+        name="6"
+        type="button"
+      >
+        6
+      </button>
+      <button
+        class="column orange"
+        name="-"
+        type="button"
+      >
+        -
+      </button>
+    </div>
+    <div
+      class="row"
+    >
+      <button
+        class="column"
+        name="1"
+        type="button"
+      >
+        1
+      </button>
+      <button
+        class="column"
+        name="2"
+        type="button"
+      >
+        2
+      </button>
+      <button
+        class="column"
+        name="3"
+        type="button"
+      >
+        3
+      </button>
+      <button
+        class="column orange"
+        name="+"
+        type="button"
+      >
+        +
+      </button>
+    </div>
+    <div
+      class="row"
+    >
+      <button
+        class="column"
+        name="0"
+        type="button"
+      >
+        0
+      </button>
+      <button
+        class="column"
+        name="."
+        type="button"
+      >
+        .
+      </button>
+      <button
+        class="column orange"
+        name="="
+        type="button"
+      >
+        =
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test components renders correctly test Quote component 1`] = `
+<div>
+  Error try again
+</div>
+`;
