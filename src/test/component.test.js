@@ -5,15 +5,15 @@ import Calculator from '../components/calculator';
 import Quote from '../components/quote';
 
 describe('test components renders correctly', () => {
-  test('test 1', () => {
+  test('test Button component', () => {
     const { container } = render(<Button value="+" className="column" handleClick={() => {}} />);
     expect(container.firstChild).toMatchSnapshot();
   });
-  test('test 1', () => {
+  test('test Calculator component', () => {
     const { container } = render(<Calculator />);
     expect(container.firstChild).toMatchSnapshot();
   });
-  test('test 1', () => {
+  test('test Quote component', () => {
     const { container } = render(<Quote />);
     expect(container.firstChild).toMatchSnapshot();
   });
