@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
 <div align="center">
-   😃
+   
   <br/>
 
-  <h1><b>Welcome to our project 😃</b></h1>
+  <h1><b>Welcome to Maths Magician project 😃</b></h1>
 
 </div>
 
@@ -170,7 +170,7 @@ Future changes:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/isume295/maths/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
